@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HassanHAT/Recipe-Finder/static/css/main.f0f9fe5a.css",
-    "main.js": "/HassanHAT/Recipe-Finder/static/js/main.32115341.js",
-    "static/js/453.2c6d9ac3.chunk.js": "/HassanHAT/Recipe-Finder/static/js/453.2c6d9ac3.chunk.js",
-    "index.html": "/HassanHAT/Recipe-Finder/index.html",
-    "main.f0f9fe5a.css.map": "/HassanHAT/Recipe-Finder/static/css/main.f0f9fe5a.css.map",
-    "main.32115341.js.map": "/HassanHAT/Recipe-Finder/static/js/main.32115341.js.map",
-    "453.2c6d9ac3.chunk.js.map": "/HassanHAT/Recipe-Finder/static/js/453.2c6d9ac3.chunk.js.map"
+    "main.css": "/Recipe-Finder/static/css/main.f0f9fe5a.css",
+    "main.js": "/Recipe-Finder/static/js/main.f261d96c.js",
+    "static/js/453.2c6d9ac3.chunk.js": "/Recipe-Finder/static/js/453.2c6d9ac3.chunk.js",
+    "index.html": "/Recipe-Finder/index.html",
+    "main.f0f9fe5a.css.map": "/Recipe-Finder/static/css/main.f0f9fe5a.css.map",
+    "main.f261d96c.js.map": "/Recipe-Finder/static/js/main.f261d96c.js.map",
+    "453.2c6d9ac3.chunk.js.map": "/Recipe-Finder/static/js/453.2c6d9ac3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0f9fe5a.css",
-    "static/js/main.32115341.js"
+    "static/js/main.f261d96c.js"
   ]
 }
